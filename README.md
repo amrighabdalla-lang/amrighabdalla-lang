@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 ## Advanced Embedded Linux Development Specialization
 
 ### Linux System Programming and Introduction to Buildroot
+- [Assignment 1](https://github.com/amrighabdalla-lang/aeld-assignment-1.git)
 - [Assignment 3](https://github.com/amrighabdalla-lang/aeld-assignment-3-and-later.git)
 - [Assignment 5](https://github.com/amrighabdalla-lang/aeld-assignment-5.git)
