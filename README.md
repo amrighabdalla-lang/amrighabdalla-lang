@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 ### Linux System Programming and Introduction to Buildroot
 - [Assignment 1](https://github.com/amrighabdalla-lang/aeld-assignment-1.git)
+- [Assignment 2](https://github.com/amrighabdalla-lang/aeld-assignment-2.git)
 - [Assignment 3](https://github.com/amrighabdalla-lang/aeld-assignment-3-and-later.git)
+- [Assignment 4](https://github.com/amrighabdalla-lang/aeld-assignment-4.git)
 - [Assignment 5](https://github.com/amrighabdalla-lang/aeld-assignment-5.git)
