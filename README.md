@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **amrighabdalla-lang/amrighabdalla-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Advanced Embedded Linux Development Specialization
+
+### Linux System Programming and Introduction to Buildroot
+- [Assignment 3](https://github.com/amrighabdalla-lang/aeld-assignment-3-and-later.git)
+- [Assignment 5](https://github.com/amrighabdalla-lang/aeld-assignment-5.git)
